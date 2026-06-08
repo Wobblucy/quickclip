@@ -1,0 +1,5 @@
+QuickClip.exe
+clips/
+build/
+assets/ffmpeg.exe
+*.log
